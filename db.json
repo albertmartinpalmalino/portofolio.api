@@ -1,6 +1,5 @@
-{
-"pengalaman" : 
-[{ 
+[
+  { 
 "judul":"PKM (Program Kreativitas Mahasiswa)",
 "Keterangan":"Internal UGM",
 "Tahun":"2019"
@@ -12,5 +11,6 @@
 "judul":"Paduan Suara UGM",
 "Keterangan":"Internal UGM",
 "Tahun":"2017-Sekarang"
-}]
 }
+]
+
